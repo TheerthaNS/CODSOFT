@@ -1,0 +1,192 @@
+.welcome{
+	    background: #177b8e;
+    color: white;
+p{
+    margin: 0px;
+     font-family: cursive;
+    text-align: center;
+    font-size: 14px;
+    padding: 3px;
+}
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  gap: 10px;
+  padding: 10px;
+    margin-top: 1%;
+}
+
+.grid-container > div {
+  text-align: center;
+}
+
+#username{
+    height: 29px !important;
+    width: 55%;
+    position: relative;
+    left: 10%;
+    padding: 9px;
+}
+.rightside{
+    word-spacing: 5.5px;
+cursor: pointer;
+margin-left: 37%;
+}
+
+section{
+    overflow: overlay;
+}
+.headline{
+    position: relative;
+    top: -20%;
+    left: 29%;
+    margin: 0px;
+    font-family: cursive;
+    letter-spacing: 3.5px;
+    font-size: 20px;
+p{
+    margin: 0px;
+}
+h3{
+    margin: 0px;
+}
+}
+ul {
+ list-style-type: none;
+    margin: 0;
+    padding: 0px 0px 0px 31%;
+    overflow: hidden;
+     color: black;
+}
+.navs{
+width: 91%;
+margin-top: 5px;
+    margin-left: 5%;
+    border-bottom: 1px solid #6c6c6c;
+    border-top: 1px solid #6c6c6c;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: Black;
+color: White;
+
+}
+
+.banner{
+img{
+width: 85%;
+    margin-left: 7%;
+    margin-top: 1%;
+}
+}
+
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+      width: 24%;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.women img {
+ width: 81%;
+    padding-left: 12%;
+}
+
+div.men img {
+width: 92%;
+    padding-left: 12%;
+}
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+.pics{
+margin-top: 2%;
+    margin-left: 7%;
+    width: 85%;
+
+h2{
+text-align: center;
+    font-size: 35px;
+    font-family: cursive;
+    letter-spacing: 4.5px;
+    color: #177b8e;
+   border-bottom: 1px solid #6c6c6c;
+    border-top: 1px solid #6c6c6c;
+padding: 4px;
+}
+}
+
+footer{
+
+    color: white;
+    background: #3b3b3b;
+    padding: 3% 7% 3% 7%;
+margin-top: 2%;
+}
+
+.collection{
+width: 98%;
+    margin-left: 2%;
+    overflow: overlay;
+}
+.about{
+
+    display: inline-block;
+position: absolute;
+    left: 12%;
+p{
+margin-bottom: 2px;
+    font-size: 14px;
+}
+}
+
+.support{
+
+    display: inline-block;
+display: inline-block;
+    position: relative;
+    left: 33%;
+p{
+margin-bottom: 2px;
+    font-size: 14px;
+}
+}
+
+.contact{
+
+    display: inline-block;
+position: absolute;
+    left: 57%;
+p{
+margin-bottom: 2px;
+    font-size: 14px;
+}
+}
+
+h5{
+font-size: 17px;
+}
